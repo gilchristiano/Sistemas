@@ -28,5 +28,6 @@ public class CarrinhoDeCompras {
 		}
 		// Conforme solicitado segue abaixo
 		System.out.println(" - Valor total das pizzas: R$" + total + ",00 ");
+		
 	}
 }
